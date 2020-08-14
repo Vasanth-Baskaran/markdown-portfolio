@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Baby](https://www.shutterstock.com/image-vector/vector-illustration-cartoon-cute-baby-526036651)
